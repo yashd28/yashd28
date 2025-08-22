@@ -22,7 +22,6 @@ I'm **Yash**, a Computer Science student at the Indraprastha Institute of Inform
 - Utilized **Natural Language Processing (NLP)** to enhance designer productivity.
 
 ---
-
 ## 💻 Technical Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -40,28 +39,26 @@ I'm **Yash**, a Computer Science student at the Indraprastha Institute of Inform
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 
+🔹 **Tools & Technologies**: Jupyter Lab, Git, PyMOL, NumPy, IntelliJ IDEA, Visual Studio Code, CLion  
 
-
-🔹 **Tools & Technologies**: Jupyter Lab, Git, PyMOL, NumPy, IntelliJ IDEA, Visual Studio Code, CLion
-
-🔹 **Expertise Areas**: Data Structures & Algorithms, OOP, Bioinformatics, Database Systems, Machine Learning
+🔹 **Expertise Areas**: Data Structures & Algorithms, OOP, Bioinformatics, Database Systems, Machine Learning  
 
 ---
 
-## 📊 GitHub Stats & Trackers
+## 📊 GitHub Stats & Trackers  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashhhhhhhhh504&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashhhhhhhhh504&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashd28&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashd28&layout=compact&theme=radical)  
 
-📈 **Contribution Graph:**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashhhhhhhhh504&theme=react-dark)
+📈 **Contribution Graph:**  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashd28&theme=react-dark)  
 
+---
 
+## 📬 Connect with Me  
 
-## 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashdhiman28/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashhhhhhhhh504)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash21504@iiitd.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashdhiman28/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashd28)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash21504@iiitd.ac.in)  
 
 📢 *I'm open to new challenges, collaborations, and career opportunities! Let's connect and create something impactful!* 🚀
