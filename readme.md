@@ -5,6 +5,10 @@ I'm **Yash**, a Computer Science student at the Indraprastha Institute of Inform
 
 ## 🔬 Research & Experience
 
+## Bioinformatician, AIIMS Delhi (January 2025 - August 2025)
+- Developed an automated Next-Generation Sequencing (NGS) pipeline for rare genetic disorder (Moyamoya). 
+- Performed analysis of rare variants from patient genomic data to identify potential disease-associated mutations.
+
 ### 🏥 Junior Researcher, AIIMS Delhi (June 2024 - Aug 2024)
 - Automated leukemia detection using **flow cytometry data**.
 - Leveraged **Deep Learning & AI** to enhance diagnostic accuracy.
