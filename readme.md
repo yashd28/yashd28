@@ -59,6 +59,6 @@ I'm **Yash**, a Computer Science student at the Indraprastha Institute of Inform
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashdhiman28/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashd28)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash21504@iiitd.ac.in)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashdhiman2428@gmail.com)  
 
 📢 *I'm open to new challenges, collaborations, and career opportunities! Let's connect and create something impactful!* 🚀
